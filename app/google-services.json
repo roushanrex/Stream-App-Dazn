@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86801143141",
+    "firebase_url": "https://handyman-3016d-default-rtdb.firebaseio.com",
+    "project_id": "handyman-3016d",
+    "storage_bucket": "handyman-3016d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86801143141:android:3422636ea63d3bc86d3d8c",
+        "android_client_info": {
+          "package_name": "com.streaming.dazn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86801143141-4eajcicc041o046m2lvl7k27lu10kbcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streaming.dazn",
+            "certificate_hash": "59fff44da12c9deb0241c8b9ebce94d20b394b6d"
+          }
+        },
+        {
+          "client_id": "86801143141-nqccdetaigu8639brnpjdnsir8qcc9b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Qd2YZR6pGd-QpsDRbFclkxtHznxAa64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86801143141-nqccdetaigu8639brnpjdnsir8qcc9b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
